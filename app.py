@@ -26,5 +26,7 @@ def main():
 
     st.pyplot(fig)
 
+    st.sidebar()
+
 if __name__=='__main__':
     main()
